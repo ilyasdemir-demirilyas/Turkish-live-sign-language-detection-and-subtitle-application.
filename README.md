@@ -23,3 +23,13 @@ Try using black background for code to work better.
 
 After the code runs, the detected letter and accuracy rate are written on the detection frame.
 Adding a letter to the alt text.
+
+# program output :
+
+
+![yakalamak1](https://github.com/ilyasdemir-demirilyas/Turkish-live-sign-language-detection-and-subtitle-application./assets/80126067/3343cec5-85b5-4d9d-a25c-3f036078df77)
+
+![yakalamak2](https://github.com/ilyasdemir-demirilyas/Turkish-live-sign-language-detection-and-subtitle-application./assets/80126067/953a9f4f-5dba-435f-b6ab-f56d590ebabe)
+
+![yakalamak3](https://github.com/ilyasdemir-demirilyas/Turkish-live-sign-language-detection-and-subtitle-application./assets/80126067/89ecdb87-dc6d-4d36-b1e2-b7c8c28130e3)
+
